@@ -1,0 +1,12 @@
+---
+layout: default
+title: Noticias
+---
+
+<h1>Clientes</h1>
+
+<dl id="posts">
+  {% for post in site.posts %}
+		{% include post_summary.html %}
+  {% endfor %}
+</dl>

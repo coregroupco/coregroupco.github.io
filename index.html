@@ -1,0 +1,31 @@
+---
+layout: default
+title: Home
+---
+
+<div id="home">
+
+	<div id="intro">
+		{% include home.html %}
+	</div>
+
+	<div id="featured">
+		<br>
+		<h3>...Recientemente</h3>
+
+		{% for post in site.posts offset: 0 limit: site.theme.homepage_featured %}
+			{% include post_featured.html %}
+		{% endfor %}
+	</div>
+
+	<div id="posts">
+		<h3>También nos pasó...</h3>
+
+		<dl>
+		  {% for post in site.posts offset: site.theme.homepage_featured limit: site.theme.homepage_posts %}
+				{% include post_summary.html %}
+		  {% endfor %}
+		</dl>
+		<p><a href="/archive.html" class="more">Ver todas »</a></p>
+	</div>
+</div>
