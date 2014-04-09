@@ -1,8 +1,15 @@
-# Stephan Florquin's Jekyll theme
+# coregroup.com.co website
+
+This is a structure of coregroup.com.co website. The site is based on 
+Jekyll and the Stephan Florquin's theme. Feel free to fork and make your
+particular version. Below you can find related information.
+
+
+## Stephan Florquin's Jekyll theme
 
 See [this post for instructions](http://stephan83.github.com/12-07-2011/use-this-theme-on-github.html).
 
-## License
+### License
 
 **MIT license**
 
