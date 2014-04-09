@@ -1,5 +1,7 @@
 permalink: /:month-:day-:year/:title.html
 
+markdown: kramdown
+
 # Theme settings
 theme:
 
