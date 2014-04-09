@@ -9,10 +9,10 @@ theme:
   site_name: coregroup sas
 
   # Google analytics UID
-  google_analytics_uid: UA-2753aaaa
+  google_analytics_uid: UA-1394858-1
 
   # Disqus shortname, for comments
-  disqus_shortname: stephan83
+  disqus_shortname: coregroupsas
 
   # Number of featured posts on homepage
   homepage_featured: 1
