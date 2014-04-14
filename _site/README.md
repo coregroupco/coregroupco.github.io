@@ -1,6 +1,6 @@
 # coregroup.com.co website
 
-This is a structure of coregroup.com.co website. The site is based on 
+This is a structure of [coregroup.com.co](http://www.coregroup.com.co) website. The site is based on 
 Jekyll and the Stephan Florquin's theme. Feel free to fork and make your
 particular version. Below you can find related information.
 
