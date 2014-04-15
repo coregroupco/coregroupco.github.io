@@ -15,7 +15,7 @@ theme:
   disqus_shortname: coregroupsas
 
   # Number of featured posts on homepage
-  homepage_featured: 1
+  homepage_featured: 2
 
   # Number of posts on homepage (in addition to featured posts)
   homepage_posts: 2
