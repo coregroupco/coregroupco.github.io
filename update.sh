@@ -1,5 +1,6 @@
 #!/bin/sh
 #
+jekyll build
 echo "Commit message?"
  read comment
 echo "Parameter to git add"
