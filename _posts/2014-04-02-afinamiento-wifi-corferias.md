@@ -10,3 +10,5 @@ vista la importancia del recinto ferial, tiene gran relevancia para sus socios d
 lo anterior, tuvimos que hacer mediciones del espectro usando algunas de nuestras herramientas avanzadas, mediciones que al concluir
 junto con su interpretación, nos permitieron hacer recomendaciones de diseño que en su primer prueba, soportaron casi de 3000 conexiones
 concurrentes.
+
+![image](/imgs/wifi-scan.png)
